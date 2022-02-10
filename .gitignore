@@ -1,3 +1,5 @@
 venv/
 rest-api/fish_shop/__pycache__
+rest-api/__pycache__
+__pycache__
 workspace.code-workspace
